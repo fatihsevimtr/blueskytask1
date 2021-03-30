@@ -8,7 +8,7 @@
 -------------------Docs-------------------
 > 1. MySql->localhost
 > 2. Use sql queries from here: bluesky1\config
-> 3. Loggin->monolog used
+> 3. Logs->monolog used
 > 4. Conform to the FIG standards (http://www.php-fig.org/), specifically the PSR-12-> php fixer used.
 
 ## Console commands:
