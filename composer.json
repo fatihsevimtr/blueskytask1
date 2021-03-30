@@ -1,0 +1,17 @@
+{
+    "name": "hp/mvc1",
+    "description": "\"Fatih Sevim: BlueSky Digital Lab-Taks1: PHP_MVC\"",
+    "authors": [
+        {
+            "name": "Fatih Sevim",
+            "email": "fatihsevimtr@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^3.0",
+        "monolog/monolog": "^2.2",
+        "phpunit/phpunit": "^9.5",
+        "symfony/console": "^5.2",
+        "friendsofphp/php-cs-fixer": "^2.18"
+    }
+}
