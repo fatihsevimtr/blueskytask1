@@ -4,7 +4,8 @@
 > 3. Write some data to the database 
 > 4. Select the data and print it out
 > 5. Add the Symfony console package, and make it work via a set of console commands.
--------------------Docs--------------------------------------------------------------
+
+-------------------Docs-------------------
 > MySql->localhost
 > Use sql queries from here: bluesky1\config
 > Loggin->monolog used
